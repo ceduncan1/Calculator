@@ -1,0 +1,43 @@
+body {
+  margin: 45px 50px;
+}
+
+.wholeCalc {
+  width: 294px;
+  height: 354px;
+  background-color: #65B356;
+  color: white;
+}
+
+button {
+  width: 70px;
+  height: 70px;
+  padding: 0;
+  margin: 0;
+  border: none;
+  background-color: #65B356;
+}
+
+.line1{
+  height: 70px;
+  border-bottom: 1px solid #84BF79; 
+}
+.line2{
+  height: 70px;
+  border-bottom: 1px solid #84BF79;
+}
+.line3{
+  height: 70px;
+  border-bottom: 1px solid #84BF79; 
+}
+.line4{
+  height: 70px;
+  border-bottom: 1px solid #84BF79; 
+}
+.line5 {
+  height: 70px;
+}
+
+.symb {
+  background-color: #83C178;
+}
